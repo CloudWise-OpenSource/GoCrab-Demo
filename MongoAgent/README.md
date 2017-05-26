@@ -33,6 +33,34 @@ func main() {
 
 ```
 
+### Directories and files
+```
+.
+├── README.md
+├── bin
+│   └── touch
+├── conf
+│   └── app.ini
+├── enums
+│   ├── config.go
+│   └── enum.go
+├── logs
+│   └── touch
+├── main.go
+├── models
+│   ├── MongoDB.go
+│   └── Status.go
+├── pics
+│   ├── mongo_agent_help.png
+│   ├── mongo_agent_start.png
+│   └── mongo_agent_version.png
+└── tasks
+    ├── Agent.go
+    └── Heatbeat.go
+
+7 directories, 14 files
+```
+
 ### ./MongoAgent -h
 
 ### ./MongoAgent -v
