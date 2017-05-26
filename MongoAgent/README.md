@@ -62,7 +62,11 @@ func main() {
 ```
 
 ### ./MongoAgent -h
+![MongoAgentHelp](https://raw.githubusercontent.com/CloudWise-OpenSource/GoCrab-Demo/master/MongoAgent/pics/mongo_agent_help.png)
 
 ### ./MongoAgent -v
+![MongoAgentVersion](https://raw.githubusercontent.com/CloudWise-OpenSource/GoCrab-Demo/master/MongoAgent/pics/mongo_agent_version.png)
 
 ### ./MongoAgent start
+![MongoAgentStart](https://raw.githubusercontent.com/CloudWise-OpenSource/GoCrab-Demo/master/MongoAgent/pics/mongo_agent_start.png)
+
